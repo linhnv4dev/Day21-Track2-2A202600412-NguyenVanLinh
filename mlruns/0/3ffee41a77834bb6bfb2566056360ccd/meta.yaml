@@ -1,0 +1,15 @@
+artifact_uri: file:///media/nguyenlinh/New%20Volume2/AIThucChien/assignments/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/3ffee41a77834bb6bfb2566056360ccd/artifacts
+end_time: 1778132324552
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ffee41a77834bb6bfb2566056360ccd
+run_name: skittish-shrimp-305
+run_uuid: 3ffee41a77834bb6bfb2566056360ccd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778132321705
+status: 3
+tags: []
+user_id: nguyenlinh

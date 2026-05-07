@@ -1,0 +1,15 @@
+artifact_uri: file:///media/nguyenlinh/New%20Volume2/AIThucChien/assignments/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/7a80d29d31c14e21859927202e35f913/artifacts
+end_time: 1778132208668
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a80d29d31c14e21859927202e35f913
+run_name: delightful-wasp-766
+run_uuid: 7a80d29d31c14e21859927202e35f913
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778132206424
+status: 3
+tags: []
+user_id: nguyenlinh
