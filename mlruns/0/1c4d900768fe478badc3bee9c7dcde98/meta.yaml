@@ -1,0 +1,15 @@
+artifact_uri: file:///media/nguyenlinh/New%20Volume2/AIThucChien/assignments/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/1c4d900768fe478badc3bee9c7dcde98/artifacts
+end_time: 1778172925572
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c4d900768fe478badc3bee9c7dcde98
+run_name: unequaled-kite-998
+run_uuid: 1c4d900768fe478badc3bee9c7dcde98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778172923426
+status: 3
+tags: []
+user_id: nguyenlinh

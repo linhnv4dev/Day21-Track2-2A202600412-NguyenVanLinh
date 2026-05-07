@@ -1,0 +1,15 @@
+artifact_uri: file:///media/nguyenlinh/New%20Volume2/AIThucChien/assignments/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/c52e2aca032c406ea3fa492d3fcd3acb/artifacts
+end_time: 1778172927699
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c52e2aca032c406ea3fa492d3fcd3acb
+run_name: charming-shark-979
+run_uuid: c52e2aca032c406ea3fa492d3fcd3acb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778172925586
+status: 3
+tags: []
+user_id: nguyenlinh

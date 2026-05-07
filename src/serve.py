@@ -61,7 +61,7 @@ def health():
 
     # pass  # xoa dong nay sau khi hoan thanh
 
-
+ 
 @app.post("/predict")
 def predict(req: PredictRequest):
     """

@@ -1,0 +1,15 @@
+artifact_uri: file:///media/nguyenlinh/New%20Volume2/AIThucChien/assignments/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/f85ff377be6d4f968ad76af5b01badee/artifacts
+end_time: 1778172923412
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f85ff377be6d4f968ad76af5b01badee
+run_name: sassy-whale-844
+run_uuid: f85ff377be6d4f968ad76af5b01badee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778172920391
+status: 3
+tags: []
+user_id: nguyenlinh
