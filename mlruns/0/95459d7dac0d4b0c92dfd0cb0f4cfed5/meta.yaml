@@ -1,0 +1,15 @@
+artifact_uri: file:///media/nguyenlinh/New%20Volume2/AIThucChien/assignments/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/95459d7dac0d4b0c92dfd0cb0f4cfed5/artifacts
+end_time: 1778173914383
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95459d7dac0d4b0c92dfd0cb0f4cfed5
+run_name: sedate-sheep-299
+run_uuid: 95459d7dac0d4b0c92dfd0cb0f4cfed5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778173912165
+status: 3
+tags: []
+user_id: nguyenlinh

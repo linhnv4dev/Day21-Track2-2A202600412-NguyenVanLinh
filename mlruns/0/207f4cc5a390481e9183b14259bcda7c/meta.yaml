@@ -1,0 +1,15 @@
+artifact_uri: file:///media/nguyenlinh/New%20Volume2/AIThucChien/assignments/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/207f4cc5a390481e9183b14259bcda7c/artifacts
+end_time: 1778173917721
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 207f4cc5a390481e9183b14259bcda7c
+run_name: languid-stag-315
+run_uuid: 207f4cc5a390481e9183b14259bcda7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778173916084
+status: 3
+tags: []
+user_id: nguyenlinh
