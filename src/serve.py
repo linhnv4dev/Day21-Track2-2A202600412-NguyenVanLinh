@@ -10,7 +10,7 @@ app = FastAPI()
 S3_BUCKET = os.environ["S3_BUCKET"]
 S3_MODEL_KEY = "models/latest/model.pkl"
 MODEL_PATH = os.path.expanduser("~/models/model.pkl")
-
+ 
 
 def download_model():
     """
