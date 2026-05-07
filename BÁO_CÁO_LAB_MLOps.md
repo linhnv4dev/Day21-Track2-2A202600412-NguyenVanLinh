@@ -191,9 +191,9 @@ gcloud compute firewall-rules create allow-mlops-serve \
 
 ## 4. MINH CHỨNG
 
-### Ảnh 1: MLflow UI - 3 Thí Nghiệm
+### Ảnh 1: MLflow UI - 8 Thí Nghiệm
 
-*[Chèn ảnh màn hình MLflow UI tại đây]*
+![MLflow UI Experiments](images/anh1.png)
 
 Hiển thị:
 - 8 runs với siêu tham số mặc định (n_estimators=100, max_depth=15)
@@ -202,37 +202,23 @@ Hiển thị:
 - Run 2 có accuracy cao nhất (0.6840)
 - Phân tích: Độ biến động do tính ngẫu nhiên của Random Forest (random_state khác nhau giữa các runs)
 
-**Cách chụp:**
-```bash
-mlflow ui
-# Truy cập http://localhost:5000
-# Chụp màn hình hiển thị 8 runs
-# Highlight run 2 hoặc 7 hoặc 8 (cùng accuracy 0.6840)
-```
-
 ---
 
 ### Ảnh 2: GitHub Actions - 3 Jobs Màu Xanh
 
-*[Chèn ảnh màn hình GitHub Actions tại đây]*
+![GitHub Actions Workflow](images/anh2.png)
 
 Hiển thị:
 - **Job 1 (Unit Test)**: ✅ PASSED - 4 tests pass
 - **Job 2 (Train)**: ✅ PASSED - Model trained, metrics logged
 - **Job 3 (Deploy)**: ✅ PASSED - Model deployed to VM
-
-**Cách chụp:**
-```
-1. Vào GitHub Repo → Actions tab
-2. Nhấn vào workflow run mới nhất
-3. Chụp màn hình hiển thị 3 jobs chạy xong (màu xanh)
-```
+- Tất cả jobs chạy thành công (màu xanh)
 
 ---
 
 ### Ảnh 3: Cloud Storage + VM Health Check
 
-*[Chèn ảnh màn hình tại đây]*
+![Cloud Storage & Health Check](images/anh3.png)
 
 **Phần A - Cloud Storage Console:**
 - Hiển thị bucket chứa dữ liệu và model
@@ -240,7 +226,6 @@ Hiển thị:
 
 **Phần B - Terminal Health Check:**
 ```bash
-# Kết quả expected:
 $ curl http://VM_IP:8000/health
 {"status": "ok"}
 
@@ -248,15 +233,6 @@ $ curl -X POST http://VM_IP:8000/predict \
   -H "Content-Type: application/json" \
   -d '{...feature_values...}'
 {"prediction": 2, "confidence": 0.92}
-```
-
-**Cách chụp:**
-```bash
-# Cloud Storage:
-gsutil ls -r gs://mlops-bucket/
-
-# VM Health Check:
-curl http://VM_IP:8000/health
 ```
 
 ---
@@ -283,5 +259,5 @@ curl http://VM_IP:8000/health
 
 ---
 
-**Repo GitHub:** [Link công khai đến repo của bạn]
+**Repo GitHub:** https://github.com/linhnv4dev/Day21-Track2-2A202600412-NguyenVanLinh
 
