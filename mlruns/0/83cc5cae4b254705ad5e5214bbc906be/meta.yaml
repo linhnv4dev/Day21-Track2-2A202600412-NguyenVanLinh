@@ -1,0 +1,15 @@
+artifact_uri: file:///media/nguyenlinh/New%20Volume2/AIThucChien/assignments/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/83cc5cae4b254705ad5e5214bbc906be/artifacts
+end_time: 1778173551473
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83cc5cae4b254705ad5e5214bbc906be
+run_name: omniscient-loon-34
+run_uuid: 83cc5cae4b254705ad5e5214bbc906be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778173549742
+status: 3
+tags: []
+user_id: nguyenlinh
