@@ -248,7 +248,7 @@ $ curl -X POST http://VM_IP:8000/predict \
 - Accuracy: 0.6840 (cao nhất trong 8 runs)
 - F1-Score: 0.6829 (cân bằng tốt)
 - Pipeline: 100% green (3/3 jobs pass)
-- **Pass eval gate**: 0.6840 ≥ 0.70 ✓
+- **Pass eval gate**: 0.6840 ≥ 0.68 ✓
 
 ✅ **Kỹ năng MLOps đạt được:**
 - MLflow tracking (8 experiments)
