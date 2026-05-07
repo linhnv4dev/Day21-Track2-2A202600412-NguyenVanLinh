@@ -4,6 +4,10 @@ import numpy as np
 import pandas as pd
 from src.train import train
 
+import mlflow
+
+mlflow.set_tracking_uri("file:./mlruns")
+
 
 FEATURE_NAMES = [
     "fixed_acidity", "volatile_acidity", "citric_acid", "residual_sugar",
